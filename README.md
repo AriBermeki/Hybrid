@@ -9,7 +9,7 @@
 <p>Hybrid also supports the Python ZVT 700 electronic cash register interface, allowing for seamless integration of other transactions into your applications. Additionally, Hybrid supports PWA Progressive Web Applications, enabling easy installation of your app on IOS and Android operating systems.</p>
 ### 🔋Batteries included
 <p>If you're looking for a robust and versatile library to create visually stunning applications, then Hybrid is undoubtedly the right choice. Explore the full potential of this exceptional library by giving it a try today!</p>
-[![PyPI version](https://badge.fury.io/py/Hybrid.svg)]
+[[PyPI version](https://badge.fury.io/py/Hybrid.svg)]
 
 ### 📐 Simple architecture
 
