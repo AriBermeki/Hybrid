@@ -1,5 +1,5 @@
 # Hybrid
-<img src="[media/logo/flet-logo.svg](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)" width="50%"/>
+<img src="./logo.png" width="50%"/>
 <p>Hybrid empowers developers to effortlessly build real-time web, mobile, and desktop applications in Python, without requiring prior frontend experience.</p>
 <p>It is an incredibly powerful Python library that allows you to create cross-platform graphical user interface applications with ease, similar to Electronjs, but with an integrated Vuejs user interface.</p>
 ### ⚡From idea to app in minutes
