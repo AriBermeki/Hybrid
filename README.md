@@ -43,8 +43,8 @@ No more complex architecture with JavaScript frontend, REST API backend, databas
 Write your nice GUI in a file `main.py`:
 
 ```python
-from nicegui import ui
-ui.label('Hello NiceGUI!')
+from hybrid import ui
+ui.label('Hello Hybrid!')
 ui.button('BUTTON', on_click=lambda: ui.notify('button was pressed'))
 ui.run()
 ```
