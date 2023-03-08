@@ -40,11 +40,11 @@ No more complex architecture with JavaScript frontend, REST API backend, databas
 
 ## Usage
 
-Write your nice GUI in a file `main.py`:
+Write your Hybrid GUI:
 
 ```python
 from hybrid import ui
 ui.label('Hello Hybrid!')
 ui.button('BUTTON', on_click=lambda: ui.notify('button was pressed'))
-ui.run()
+ui.run(view='app', dark=True)
 ```
