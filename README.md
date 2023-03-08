@@ -36,7 +36,7 @@ No more complex architecture with JavaScript frontend, REST API backend, databas
 - capture keyboard input for global shortcuts etc.
 - customize look by defining primary, secondary and accent colors
 - live-cycle events and session data
-<img src="./mm1.png" width="100%"/>
+<a><img src="./mm1.png" width="100%"/></a>
 
 ## Usage
 
